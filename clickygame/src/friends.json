@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Girl Interrupted",
+      "image": "http://addictedtoeverything.com/wp-content/uploads/2017/04/Girl-interrupted.jpg",
+      "occupation": "Model",
+      "location": "London"
+    },
+    {
+      "id": 2,
+      "name": "Color Print",
+      "image": "https://i.pinimg.com/originals/f8/54/1d/f8541d9a879300504136e6f7ffae3219.jpg",
+      "occupation": "Fashion Designer",
+      "location": "Paris"
+    },
+    {
+      "id": 3,
+      "name": "Frida Kahlo",
+      "image": "https://cdn.shopify.com/s/files/1/0841/8811/products/614-6s14SCL.jpg?v=1504016861",
+      "occupation": "Painter",
+      "location": "Mexico"
+    },
+    {
+      "id": 4,
+      "name": " Jean Michel Basquiat",
+      "image": "https://i.pinimg.com/originals/6d/5b/48/6d5b48a827d2e9ffb93fc972c5a9df85.jpg",
+      "occupation": "Artist",
+      "location": "NYC"
+    },
+    {
+      "id": 5,
+      "name": "Andy Warhol",
+      "image": "http://www.arthistoryarchive.com/arthistory/popart/images/AndyWarhol-Self-Portrait-1986.jpg",
+      "occupation": "Pop Artist",
+      "location": "Pittsburg, PA"
+    },
+    {
+      "id": 6,
+      "name": "Salvador Dali",
+      "image": "https://assets.saatchiart.com/saatchi/212840/art/4098930/3168782-HJEMSBKT-7.jpg",
+      "occupation": "Surrealism Artist",
+      "location": "Europe"
+    },
+    {
+      "id": 7,
+      "name": "John Lennon",
+      "image": "https://i.pinimg.com/236x/7e/54/83/7e5483bf5e318940fe2955dadf6c7b19--pop-art-music-pop-art-portraits.jpg",
+      "occupation": "Musician",
+      "location": "London"
+    },
+    {
+      "id": 8,
+      "name": "Pop Art Babe",
+      "image": "https://i0.wp.com/artvoice.com/wp-content/uploads/2019/03/1pop.jpg?fit=793%2C793&ssl=1",
+      "occupation": "Heartbreaker",
+      "location": "Chicago"
+    },
+    {
+      "id": 9,
+      "name": "Mickey & Minnie",
+      "image": "https://www.star2.com/wp-content/uploads/2019/04/mickey1_dl_1_doc74k7iq988mx1gg64yf2p-770x470.jpg",
+      "occupation": "Adorable couple",
+      "location": "Orlando, FL"
+    },
+    {
+      "id": 10,
+      "name": "Micky",
+      "image": "https://guyhepner.com/wp-content/uploads/2015/05/Pop-Art.jpg",
+      "occupation": "Mouse",
+      "location": "California"
+    },
+    {
+      "id": 11,
+      "name": "Lips",
+      "image": "https://images.assetsdelivery.com/compings_v2/galamar/galamar1512/galamar151200003.jpg",
+      "occupation": "To be Sexy",
+      "location": "Human Head"
+    },
+    {
+      "id": 12,
+      "name": "Pop Poster",
+      "image": "https://static1.squarespace.com/static/59dd320a914e6b94c00f0f50/59f90c9271c10b2fa483407d/5ace5bb3f950b79e58697c27/1523473335228/Lichtenstein-Pop-Art-Art-Attack-Burlingame-Art-Studio-Art-Classes-736x675.jpg?format=500w",
+      "occupation": "Turning Heads!",
+      "location": "The coolest places"
+    }
+  ]
