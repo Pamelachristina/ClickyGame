@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: sans-serif;
+    
    }
   
   html, body, #root {
@@ -10,7 +11,9 @@
   }
   
   body{
-    background-image: url(fundo-bob-esponja-png-7.png);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/240/889/original/abstract-comic-book-background-design-vector.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: azure;
+    width: 100%;
   }

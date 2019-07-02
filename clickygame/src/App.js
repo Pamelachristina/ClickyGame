@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import Navbar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import Header from "./components/Header";
 import friends from "./friends.json";
 
@@ -11,6 +11,7 @@ class App extends Component {
     friends: friends,
     clickedImage: [],
     count: 0,
+    topScore: 0,
     message: "Let`s Start!"
   };
 
@@ -50,6 +51,9 @@ class App extends Component {
               message: "Yay!You Win!"
             });
           }
+          if (this.state.count > this.state.topScore) {
+            this.setState({topScore: this.state.count})
+          }
         })
       }
   }
@@ -60,7 +64,7 @@ class App extends Component {
   return (
       <div>
         <Header />
-        <Navbar count={this.state.count} message={this.state.message}/>
+        <NavBar count={this.state.count} topScore={this.state.topScore} message={this.state.message}/>
         <Wrapper>
           {this.state.friends.map(friends => (
             <FriendCard
